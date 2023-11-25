@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "196830044071",
+    "firebase_url": "https://sethstore-ddb6f-default-rtdb.firebaseio.com",
+    "project_id": "sethstore-ddb6f",
+    "storage_bucket": "sethstore-ddb6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196830044071:android:8a219561f77be3e664a082",
+        "android_client_info": {
+          "package_name": "com.foundercode.sethstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196830044071-15akllgjghn3l67hi85fql20rfsr0j8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.sethstore",
+            "certificate_hash": "27b84db7b18dce3a7a9fdb9fa8e9e08ecd1ffd34"
+          }
+        },
+        {
+          "client_id": "196830044071-5rbk7to0i0508lsuc0mnm08s1msi3ptt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.sethstore",
+            "certificate_hash": "29b118c34d5f4cfbf78793ab1d41376f743175f3"
+          }
+        },
+        {
+          "client_id": "196830044071-cpi8k8eh9jl72d08iltoeobkc26t3f7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.sethstore",
+            "certificate_hash": "83d905988d8e1098f106d096484b54d5a86c49ff"
+          }
+        },
+        {
+          "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG93wb0Irw0Bqj1D4JKGmnfvY0WElf9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196830044071:android:8a852bbb14bfa2d164a082",
+        "android_client_info": {
+          "package_name": "com.foundercode.sethstoredelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196830044071-16gh9rbafide9i9qeac83gjm9ru03g2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.sethstoredelivery",
+            "certificate_hash": "e2414c9fd476fcc20035fd0492ee1c630902adbc"
+          }
+        },
+        {
+          "client_id": "196830044071-1rpmmo7h71n2vkoin3ed1ba9g3oobi0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.sethstoredelivery",
+            "certificate_hash": "168acee9f47ed2aeda0f7e0937d9f01ecff041a0"
+          }
+        },
+        {
+          "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG93wb0Irw0Bqj1D4JKGmnfvY0WElf9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196830044071-h9c7jimar5jgar10ab6e0erbg4jrh752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
